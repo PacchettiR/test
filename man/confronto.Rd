@@ -1,8 +1,9 @@
 \name{confronto}
 \alias{confronto}
-\title{
+\title{confronto
 }
 \description{
+ciao
 
 }
 \usage{
